@@ -1,1 +1,12 @@
-streamlit>=1.26.0
+blessed==1.18.0
+datasets==1.14.0
+hugchat==0.0.8
+huggingface-hub==0.0.17
+langchain-community==0.2.0
+langchain-core==0.2.0
+requests==2.26.0
+spacy==3.2.1
+streamlit==1.17.0
+torch==1.10.0
+transformers==4.15.0
+typing-extensions==3.10.0.2
